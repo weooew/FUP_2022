@@ -1,7 +1,3 @@
----
-## oi
-
-```c
 #include <stdio.h>
 int main(){
 /* Entrada: um caracter
@@ -26,5 +22,3 @@ Saida: Se for uma letra maiúscula, imprima a letra minúscula.
     
     return 0;
 }
-```
----
