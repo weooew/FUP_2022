@@ -103,7 +103,7 @@
 
 [L3 - Mário e o Assassins Creed - Parkour :x:](/mario.md)
 
-[L3 - Baruel Ruel trocando figurinhas! :x:](/)
+[L3 - Baruel Ruel trocando figurinhas! :x:](/ruel.md)
 
 ## Ponteiros:
 [L0 - Swap: Troca de Valores](/swap.md)
@@ -141,8 +141,8 @@
 
 [str L3 - Rocicleia e o Locioreca - Anagramas!](/anagrama.md)
 
-[str L3 - Meu cachorro comeu minha tarefa - Retirar espaços duplicados :x:](/)
+[str L3 - Meu cachorro comeu minha tarefa - Retirar espaços duplicados :x:](/ret.md)
 
-[str L3 - Máquina de Datilografar Quebrada :x:](/)
+[str L3 - Máquina de Datilografar Quebrada :x:](/queb.md)
 
-[str L3 - Jason e Krueguer - busca de maior ocorrência :x:](/)
+[str L3 - Jason e Krueguer - busca de maior ocorrência :x:](/ocor.md)
