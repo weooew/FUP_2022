@@ -5,16 +5,24 @@
   [Trocar Variáveis](/trocavar.c) 
   
   [Operações Básicas](/operacoesbasicas.c)
-  [Um dígito por linha](/)
+  
+  [Um dígito por linha :x:](/)
   
 ## Estruturas de Seleção:
-  [L1 - Positivo, nulo ou negativo](/)
-  [L1 - Ambos divisíveis](/)
-  [L2 - Quantos iguais](/)
-  [L2 - Maior valor](/)
-  [L2 - Mercantil V1](/)
-  [L2 - Zerim ou Um!](/)
-  [L3 - Morre o do meio](/)
+  [L1 - Positivo, nulo ou negativo :x:](/)
+  
+  [L1 - Ambos divisíveis :x:](/)
+  
+  [L2 - Quantos iguais :x:](/)
+  
+  [L2 - Maior valor :x:](/)
+  
+  [L2 - Mercantil V1 :x:](/)
+  
+  [L2 - Zerim ou Um! :x:](/)
+  
+  [L3 - Morre o do meio:x:](/)
+  
   [L3 - Está trabalhando ou Não!](/)
   [L3 - Média injusta](/)
   [L3 - A hora do próximo segundo](/)
@@ -80,7 +88,7 @@
 [rep L2 - Quadrado Perfeito](/)
 [rep L2 - FIbonacci segura o Tite!](/)
 [rep L3 - Sapinho vs Poço](/)
-[fun L2 - É soma de primos?](/)
+[fun L2 - É soma de primos? :x:](/)
 
 ## Vetores:
 [L1 - Joelison Fernandes - Soma do maior e menor!](/soammm.c)
