@@ -86,10 +86,10 @@
 ## Funções:
   [L1 - Mete bala](/metebala.md)
   
-  [L1 - Fahrenheit para Celsius](/)
-  [L2 - Sai fora Baskara](/)
-  [L2 - É primo?!](/)
-  [L3 - Euler?! Que Euler?!](/)
+  [L1 - Fahrenheit para Celsius](/)x
+  [L2 - Sai fora Baskara](/)x
+  [L2 - É primo?!](/)x
+  [L3 - Euler?! Que Euler?!](/)x
  
   ## Praticar
   [ope - L1 - Conversão de tempo](/convdetempo.md)
@@ -101,22 +101,24 @@
   
   [rep - L2 - Fuga em helicóptero](/fugadehel.md)
   
-  [rep - L3 - Blackjack 21!](/)
-  [rep - L3 - Conta Dígitos](/)
-  [rep - L4 - Spok Palindromo](/)
+  [rep - L3 - Blackjack 21!](/)x
+  [rep - L3 - Conta Dígitos](/)x
+  [rep - L4 - Spok Palindromo](/)x
 
 
   [sel - L1 - Calculadora](/)
   
   [sel - L1 - Plantação de Morangos](/plantamorango.md)
   
-  [sel - L2 - Quiz do Harry Potter](/)
-  [sel - L2 - Rufus e Par ou Impar!](/)
-  [sel - L3 - Jokenpo das tartarugas!](/)
-  [sel - L3 - Mercantil V2](/)
-  [sel - L4 - Jokenpo TBBT!](/)
+  [sel - L2 - Quiz do Harry Potter](/quiz.md)
+  
+  [sel - L2 - Rufus e Par ou Impar!](/rufuspareimpar.md)
+  
+  [sel - L3 - Jokenpo das tartarugas!](/)x
+  [sel - L3 - Mercantil V2](/)x
+  [sel - L4 - Jokenpo TBBT!](/)x
 
-  [fun - L2 - Zezinho e a Loteria](/)
+  [fun - L2 - Zezinho e a Loteria](/)x
   
 ## Vetores:
 [L1 - Joelison Fernandes - Soma do maior e menor!](/soammm.c)
