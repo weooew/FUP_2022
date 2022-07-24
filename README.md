@@ -46,11 +46,16 @@
   
   [L1 - Mínimo de uma Sequência](/menordaseq.md)
   
-  [L1 - Quantos Ultrons você vê - Contar Elemento](/)
-  [L1 - Calças do Hulk - Contar Condicional](/)
-  [L1 - Zero é par - Somatório de Pares!](/)
-  [L2 - Cabo de Guerra Jedi](/)
-  [L2 - Amarelinha Intervalada](/)
+  [L1 - Quantos Ultrons você vê - Contar Elemento](/ultron.md)
+  
+  [L1 - Calças do Hulk - Contar Condicional](/hulk.md)
+  
+  [L1 - Zero é par - Somatório de Pares!](/somadepares.md)
+  
+  [L2 - Cabo de Guerra Jedi](/cabodeguerrajedi.md)
+  
+  [L2 - Amarelinha Intervalada](/amarelinha.md)
+  
   [L3 - Excluindo os extremos](/)
   [L3 - Fibonacci e a sopa de coelhos](/)
   [L3 - Arremesso de pedra na lua](/)
