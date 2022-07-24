@@ -74,22 +74,27 @@
   ## Praticar
   [ope - L1 - Conversão de tempo](/convdetempo.md)
   
+  
   [rep - L2 - Ônibus Lotado](/onibuslotado.md)
+  
   [rep - L2 - Revolta em Portugal](/revoltaemportugual.md)
+  
   [rep - L2 - Fuga em helicóptero](/)
   [rep - L3 - Blackjack 21!](/)
   [rep - L3 - Conta Dígitos](/)
   [rep - L4 - Spok Palindromo](/)
 
+
   [sel - L1 - Calculadora](/)
   [sel - L1 - Plantação de Morangos](/)
   [sel - L2 - Quiz do Harry Potter](/)
   [sel - L2 - Rufus e Par ou Impar!](/)
-  [fun - L2 - Zezinho e a Loteria](/)
   [sel - L3 - Jokenpo das tartarugas!](/)
   [sel - L3 - Mercantil V2](/)
   [sel - L4 - Jokenpo TBBT!](/)
 
+  [fun - L2 - Zezinho e a Loteria](/)
+  
 ## Vetores:
 [L1 - Joelison Fernandes - Soma do maior e menor!](/soammm.c)
 
