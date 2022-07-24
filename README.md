@@ -25,13 +25,19 @@
   
   [L3 - Está trabalhando ou Não!](/trab.md)
   
-  [L3 - Média injusta](/)
-  [L3 - A hora do próximo segundo](/)
-  [L3 - OBI 2017 - Drone de Entrega](/)
-  [L3 - Cesta de Chico](/)
-  [L4 - Rufus e ordenação](/)
-  [L4 - Dormir Tarde Acordar Cedo!](/)
-  [L4 - Zerim ou um americano](/)
+  [L3 - Média injusta](/mediainj.md)
+  
+  [L3 - A hora do próximo segundo](/horadeacordar.md)
+  
+  [L3 - OBI 2017 - Drone de Entrega](/drone.md)
+  
+  [L3 - Cesta de Chico](/cestadefrutas.md)
+  
+  [L4 - Rufus e ordenação](/rufusord.md)
+  
+  [L4 - Dormir Tarde Acordar Cedo!](/hora.md)
+  
+  [L4 - Zerim ou um americano](/zerimuumamer.md)
 
 ## Estruturas de repetição:
   [L1 - Mais que 5 - Somatório V1!](/)
@@ -83,13 +89,6 @@
   [sel - L3 - Jokenpo das tartarugas!](/)
   [sel - L3 - Mercantil V2](/)
   [sel - L4 - Jokenpo TBBT!](/)
-
-## Prova 1 
-[sel L1 - Valor absoluto](/)
-[rep L2 - Quadrado Perfeito](/)
-[rep L2 - FIbonacci segura o Tite!](/)
-[rep L3 - Sapinho vs Poço](/)
-[fun L2 - É soma de primos? :x:](/)
 
 ## Vetores:
 [L1 - Joelison Fernandes - Soma do maior e menor!](/soammm.c)
