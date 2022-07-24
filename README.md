@@ -84,7 +84,7 @@
   [rep L2 - Média Simples!](/mediasimples.md)
   
 ## Funções:
-  [L1 - Mete bala](/)
+  [L1 - Mete bala](/metebala.md)
   [L1 - Fahrenheit para Celsius](/)
   [L2 - Sai fora Baskara](/)
   [L2 - É primo?!](/)
