@@ -63,14 +63,22 @@
   [L3 - Arremesso de pedra na lua](/arremessopralua.md)
   
 ## Float:
-  [ope - Divisão Inteira e Quebrada](/)
-  [ope - Área do círculo](/)
-  [ope - Ajudando vendedor](/)
-  [ope - Conversão de Celsius para Fahrenheit](/)
-  [ope - Média ponderada](/)
-  [ope - Repartindo prêmio da loteria](/)
-  [sel L2 - Aumento de Salário](/)
-  [sel L2 - Fiquei de final](/)
+  [ope - Divisão Inteira e Quebrada](/divintqueb.md)
+  
+  [ope - Área do círculo](/areadocirculo.md)
+  
+  [ope - Ajudando vendedor](/ajudandovendedor.md)
+  
+  [ope - Conversão de Celsius para Fahrenheit](/convcelsiusfahr.md)
+  
+  [ope - Média ponderada](/médiapond.md)
+  
+  [ope - Repartindo prêmio da loteria](/repartindopremio.md)
+  
+  [sel L2 - Aumento de Salário](/aumentodesalario.md)
+  
+  [sel L2 - Fiquei de final](/final.md)
+  
   [sel L3 - Professor Bonzinho](/)
   [rep L2 - Média Simples!](/)
   
