@@ -40,9 +40,12 @@
   [L4 - Zerim ou um americano](/zerimuumamer.md)
 
 ## Estruturas de repetição:
-  [L1 - Mais que 5 - Somatório V1!](/)
-  [L1 - Somatorio V2](/)
-  [L1 - Mínimo de uma Sequência](/)
+  [L1 - Mais que 5 - Somatório V1!](/maisque5.md)
+  
+  [L1 - Somatorio V2](/somatorio.md)
+  
+  [L1 - Mínimo de uma Sequência](/menordaseq.md)
+  
   [L1 - Quantos Ultrons você vê - Contar Elemento](/)
   [L1 - Calças do Hulk - Contar Condicional](/)
   [L1 - Zero é par - Somatório de Pares!](/)
