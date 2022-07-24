@@ -179,7 +179,7 @@
 
 [str L3 - Rocicleia e o Locioreca - Anagramas!](/anagrama.md)
 
-[str L3 - Meu cachorro comeu minha tarefa - Retirar espaços duplicados :x:](/ret.md)
+[str L3 - Meu cachorro comeu minha tarefa - Retirar espaços duplicados](/ret.md)
 
 [str L3 - Máquina de Datilografar Quebrada :x:](/queb.md)
 
