@@ -86,8 +86,8 @@
 ## Funções:
   [L1 - Mete bala](/metebala.md)
   
-  [L1 - Fahrenheit para Celsius](/)x
-  [L2 - Sai fora Baskara](/)x
+  [L1 - Fahrenheit para Celsius](/ceifar.md)
+  [L2 - Sai fora Baskara](/baskara.md)
   [L2 - É primo?!](/)x
   [L3 - Euler?! Que Euler?!](/)x
  
