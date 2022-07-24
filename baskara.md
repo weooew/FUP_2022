@@ -33,35 +33,36 @@ Ex:
 
 ``` c
 #include <stdio.h>
-int bhaskara(double a, double b, double c, double *x1, double *x2){
-    int e = 0;
-    int delta = (b*b)-(4*a*c);
-    //raiz de delta
-    for(int d = 0; d < (b*b); d++){
-        if(d*d == delta){
-            raiz = d;
-        }
-    }
-    int res1 = (-b + delta)/(2a);
-    int res2 = (-b - delta)/(2a);
-    if(delta > 0){
-        //colocar res1 no x1
-            if ((x*x) == res1){
-                *x1 = x;
-            } 
-        
-        //colocarres2 no x2
-                *x2 = i;
-        return 1;
-    }
-    if(delta == 0){
-                *x1 = d;
 
-        return 0;
+#include <math.h>
+
+int bhaskara(double a, double b, double c, double *x1, double *x2){
+
+    int delta = pow(b,2) - (4*a*c);
+
+    if(delta >= 0){
+
+        if(sqrt(delta) == (-1*sqrt(delta))){
+
+            *x1 = ((b*-1)+sqrt(delta))/(2*a);
+
+            return 0;
+
+        }
+
+        if(sqrt(delta) != (-1*sqrt(delta))){
+
+            *x1 = ((b*-1)+sqrt(delta))/(2*a);
+
+            *x2 = ((b*-1)-sqrt(delta))/(2*a);
+
+            return 1;
+
+        }
+
     }
-    if(delta < 0){
-        return -1;
-    }
-    return 0;
+
+    return -1;
+
 }
 ```
