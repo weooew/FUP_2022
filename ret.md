@@ -45,9 +45,6 @@ int main(){
             for(int x = i; str[x] != ' '; x++){
                 printf("%c", str[x]);
             }
-            //for(int x = 0; str[x] != '\0'; x++){
-            //    str[i+x] = str[i+x+1]; 
-            //}
         }
         if(str[i] == ' ' && str[i+1] != ' '){
             printf("%c", str[i]);
