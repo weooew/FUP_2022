@@ -6,16 +6,16 @@
   
   [Operações Básicas](/operacoesbasicas.c)
   
-  [Um dígito por linha :x:](/)
+  [Um dígito por linha](/digporlinha.md)
   
 ## Estruturas de Seleção:
-  [L1 - Positivo, nulo ou negativo :x:](/)
+  [L1 - Positivo, nulo ou negativo](/posnulonegativos.md)
   
-  [L1 - Ambos divisíveis :x:](/)
+  [L1 - Ambos divisíveis](/ambosdivisiveis.md)
   
-  [L2 - Quantos iguais :x:](/)
+  [L2 - Quantos iguais](/quantosnumiguais.md)
   
-  [L2 - Maior valor :x:](/)
+  [L2 - Maior valor](/maiorvalor.md)
   
   [L2 - Mercantil V1 :x:](/)
   
@@ -65,9 +65,9 @@
   [L3 - Euler?! Que Euler?!](/)
  
   ## Praticar
-  [ope - L1 - Conversão de tempo](/)
+  [ope - L1 - Conversão de tempo](/convdetempo.md)
   
-  [rep - L2 - Ônibus Lotado](/)
+  [rep - L2 - Ônibus Lotado](/onibuslotado.md)
   [rep - L2 - Revolta em Portugal](/)
   [rep - L2 - Fuga em helicóptero](/)
   [rep - L3 - Blackjack 21!](/)
