@@ -17,13 +17,14 @@
   
   [L2 - Maior valor](/maiorvalor.md)
   
-  [L2 - Mercantil V1 :x:](/)
+  [L2 - Mercantil V1](/mercantil.md)
   
-  [L2 - Zerim ou Um! :x:](/)
+  [L2 - Zerim ou Um!](/zerimuumamer.md)
   
-  [L3 - Morre o do meio:x:](/)
+  [L3 - Morre o do meio](/meio.md)
   
-  [L3 - Está trabalhando ou Não!](/)
+  [L3 - Está trabalhando ou Não!](/trab.md)
+  
   [L3 - Média injusta](/)
   [L3 - A hora do próximo segundo](/)
   [L3 - OBI 2017 - Drone de Entrega](/)
@@ -68,7 +69,7 @@
   [ope - L1 - Conversão de tempo](/convdetempo.md)
   
   [rep - L2 - Ônibus Lotado](/onibuslotado.md)
-  [rep - L2 - Revolta em Portugal](/)
+  [rep - L2 - Revolta em Portugal](/revoltaemportugual.md)
   [rep - L2 - Fuga em helicóptero](/)
   [rep - L3 - Blackjack 21!](/)
   [rep - L3 - Conta Dígitos](/)
