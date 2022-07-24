@@ -97,7 +97,8 @@
   
   [rep - L2 - Revolta em Portugal](/revoltaemportugual.md)
   
-  [rep - L2 - Fuga em helicóptero](/)
+  [rep - L2 - Fuga em helicóptero](/fugadehel.md)
+  
   [rep - L3 - Blackjack 21!](/)
   [rep - L3 - Conta Dígitos](/)
   [rep - L4 - Spok Palindromo](/)
