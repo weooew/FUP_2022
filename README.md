@@ -56,9 +56,11 @@
   
   [L2 - Amarelinha Intervalada](/amarelinha.md)
   
-  [L3 - Excluindo os extremos](/)
-  [L3 - Fibonacci e a sopa de coelhos](/)
-  [L3 - Arremesso de pedra na lua](/)
+  [L3 - Excluindo os extremos](/excluindoosextremos.md)
+  
+  [L3 - Fibonacci e a sopa de coelhos](/sopadecoelho.md)
+  
+  [L3 - Arremesso de pedra na lua](/arremessopralua.md)
   
 ## Float:
   [ope - Divisão Inteira e Quebrada](/)
