@@ -79,8 +79,9 @@
   
   [sel L2 - Fiquei de final](/final.md)
   
-  [sel L3 - Professor Bonzinho](/)
-  [rep L2 - Média Simples!](/)
+  [sel L3 - Professor Bonzinho](/profbom.md)
+  
+  [rep L2 - Média Simples!](/mediasimples.md)
   
 ## Funções:
   [L1 - Mete bala](/)
@@ -105,7 +106,9 @@
 
 
   [sel - L1 - Calculadora](/)
-  [sel - L1 - Plantação de Morangos](/)
+  
+  [sel - L1 - Plantação de Morangos](/plantamorango.md)
+  
   [sel - L2 - Quiz do Harry Potter](/)
   [sel - L2 - Rufus e Par ou Impar!](/)
   [sel - L3 - Jokenpo das tartarugas!](/)
