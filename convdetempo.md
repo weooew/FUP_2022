@@ -2,7 +2,9 @@ Leia o tempo em segundos, e imprima este tempo em horas, minutos e segundos.
 
 Dica: use divisão inteira e o operador de resto da divisão.
 
-1 minuto = 60 segundos. 1 hora = 60 minutos * 60 segundos = 3600 segundos. 
+1 minuto = 60 segundos. 
+
+1 hora = 60 minutos * 60 segundos = 3600 segundos. 
 
 Exemplo: 
 << 
