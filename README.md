@@ -88,7 +88,7 @@
   
   [L1 - Fahrenheit para Celsius](/ceifar.md)
   [L2 - Sai fora Baskara](/)x
-  [L2 - É primo?!](/)x
+  [L2 - É primo?!](/primo.md)
   [L3 - Euler?! Que Euler?!](/)x
  
   ## Praticar
